@@ -1,0 +1,3 @@
+# How to add authentications to git
+# SSH key included
+Follow this link: https://docs.github.com/authentication
