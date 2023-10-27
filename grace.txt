@@ -2,3 +2,6 @@ I am saved by Grace
 This is what I wanted
 Glory to God
 Line deleted and replaced
+commit add
+commit plus
+commit 12
