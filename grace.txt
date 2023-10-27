@@ -2,4 +2,4 @@ I am saved by Grace
 This is what I wanted
 Glory to God
 Line deleted and replaced
-commit 1
+commit 12
